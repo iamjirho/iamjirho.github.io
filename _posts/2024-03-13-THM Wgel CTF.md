@@ -10,6 +10,7 @@ image:
 Can you exfiltrate the root flag? This room have network service pentesting, linux privilege escalation, directory busting bruteforcing.
 
 ## **Reconnaissance**
+---
 Initially do the Nmap scan.
 ```bash
 nmap -sC -sV -p- $IP --open

@@ -207,6 +207,7 @@ Allows us to spawn a shell
 {: .prompt-danger }
 
 ## **Take Away Concepts**
+---
 - Understand steganography. Sometimes, these pictures might have the passwords or hints you need to get on top of the machine.
 - Always check websites or web apps carefully by yourself. View the page source!
 - If the binary /bin/nano has extra permissions, you can use this to your advantage to escalate your privilege. Make sure you understand how this trick works instead of just copying blindly from GTFObins.
