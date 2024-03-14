@@ -114,6 +114,7 @@ So, why do we have an exposed private key in the first place?
 Question is, can this key be used by the username we just found from the source code?
 
 ## **Gaining an Initial Foothold**
+---
 
 ```text
 chmod 600 id_rsa
@@ -128,6 +129,7 @@ SSH private key file needs to be set with chmod 600 permissions to ensure that o
 
 
 ## **Privilege Escalation**
+---
 
 I initially checked `sudo -l` command to list the permissions granted to the current user in the sudoers file.
 
@@ -193,6 +195,7 @@ password1 <-- enter the password you created from openssl
 {: .prompt-danger }
 
 ## **Materials/ References**
+---
 
 [Linux for Pentester: Wget Privilege Escalation - Hacking Articles](https://www.hackingarticles.in/linux-for-pentester-wget-privilege-escalation/)
 
@@ -201,6 +204,8 @@ password1 <-- enter the password you created from openssl
 
 
 ## **Take Away Concepts**
+---
+
 - Never skip viewing the source code of the website regardless if it is the default Apache webpage, as it might contain hidden comments with user credentials.
 - Conduct thorough directory and file busting. Who knows? Maybe someone left their SSH private keys unattended.
 - Understand how wget works to escalate your privileges. Took me about an hour doing some trial and error on how to add a root user to the /etc/passwd using wget

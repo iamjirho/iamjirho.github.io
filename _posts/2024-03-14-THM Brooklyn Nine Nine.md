@@ -152,6 +152,7 @@ Can we hail hydra? Or Just use the credentials we just found from the text file 
 
 
 ## **Gaining an Initial Foothold**
+---
 
 Login via SSH. I tried using holt as the username, if it did not work, using hydra would be our best bet. Enter the password when prompted.
 
@@ -165,6 +166,7 @@ ssh holt@<IP>
 
 
 ## **Privilege Escalation**
+---
 
 I initially checked `sudo -l` command to list the permissions granted to the current user in the sudoers file.
 
