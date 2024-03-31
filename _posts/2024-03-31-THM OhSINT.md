@@ -32,7 +32,7 @@ In one of the Google Search results, you can find the link pointing to github. S
 ![Desktop View](/assets/images/ohsint/peoplefinder.png){: width="972" height="589" }
 
 ### **What is the SSID of the WAP he connected to?**
-Create an account for [wigle.net](http://wigle.net/) to access the Advanced Search.
+Create an account for [wigle](https://wigle.net/) to access the Advanced Search.
 
 Paste the BSSID you got from his [Twitter Post](https://twitter.com/OWoodflint/status/1102220421091463168)
 
