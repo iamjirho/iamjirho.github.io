@@ -1,5 +1,5 @@
 ---
-title: TryHackMe Lian_Yu [CHALLENGE]
+title: TryHackMe Lian_Yu
 date: 2024-05-08 00:00:00 +0800
 categories: [TryHackMe, Challenge]
 tags: [walkthough,write-ups]     # TAG names should always be lowercase

@@ -1,5 +1,5 @@
 ---
-title: TryHackMe Simple CTF [CHALLENGE]
+title: TryHackMe Simple CTF
 date: 2024-03-10 00:00:00 +0800
 categories: [TryHackMe, Challenge]
 tags: [walkthough,write-ups]     # TAG names should always be lowercase

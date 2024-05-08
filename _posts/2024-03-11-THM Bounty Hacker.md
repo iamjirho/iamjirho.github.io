@@ -1,5 +1,5 @@
 ---
-title: TryHackMe Bounty Hacker [CHALLENGE]
+title: TryHackMe Bounty Hacker
 date: 2024-03-11 00:00:00 +0800
 categories: [TryHackMe, Challenge]
 tags: [walkthough,write-ups]     # TAG names should always be lowercase

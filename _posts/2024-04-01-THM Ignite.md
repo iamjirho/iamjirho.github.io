@@ -1,5 +1,5 @@
 ---
-title: TryHackMe Ignite [CHALLENGE]
+title: TryHackMe Ignite
 date: 2024-04-01 00:00:00 +0800
 categories: [TryHackMe, Challenge]
 tags: [walkthough,write-ups]     # TAG names should always be lowercase

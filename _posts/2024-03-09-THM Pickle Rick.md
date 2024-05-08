@@ -1,5 +1,5 @@
 ---
-title: TryHackMe Pickle Rick [CHALLENGE]
+title: TryHackMe Pickle Rick
 date: 2024-03-09 00:00:00 +0800
 categories: [TryHackMe, Challenge]
 tags: [walkthough,write-ups]     # TAG names should always be lowercase

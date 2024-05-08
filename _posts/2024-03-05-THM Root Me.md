@@ -1,5 +1,5 @@
 ---
-title: TryHackMe Root Me [CHALLENGE]
+title: TryHackMe Root Me
 date: 2024-03-09 00:00:00 +0800
 categories: [TryHackMe, Challenge]
 tags: [walkthough,write-ups]     # TAG names should always be lowercase

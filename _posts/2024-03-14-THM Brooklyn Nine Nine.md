@@ -1,5 +1,5 @@
 ---
-title: TryHackMe Brooklyn Nine Nine [CHALLENGE]
+title: TryHackMe Brooklyn Nine Nine
 date: 2024-03-14 00:00:00 +0800
 categories: [TryHackMe, Challenge]
 tags: [walkthough,write-ups]     # TAG names should always be lowercase
