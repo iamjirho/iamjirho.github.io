@@ -10,7 +10,7 @@ image:
 Hack this machine and get the flag. There are lots of hints along the way and is perfect for beginners!
 
 ## **Skills Needed**
-
+POP3, Web enumeration, nmap, Privilege escalation, Metasploit, Bruteforce, OSINT
 
 ## **Reconnaissance**
 ---
