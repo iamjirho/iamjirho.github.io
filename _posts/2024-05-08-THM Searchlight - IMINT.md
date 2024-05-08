@@ -109,7 +109,7 @@ Simple search “katz's deli editor”. Turns out, Bon Appétit is a youtube cha
 ---
 ### **What is the name of this statue?**
 
-Tried reversing the image first using Yandex which gave me quite accurate results and eventually landed on the “[www.visitoslo.com/](http://www.visitoslo.com/)” page. Luckily, they gave a map full of statues, enough to give us the name of the creepy looking creature.
+Tried reversing the image first using Yandex which gave me quite accurate results and eventually landed on the [www.visitoslo.com/](http://www.visitoslo.com/) page. Luckily, they gave a map full of statues, enough to give us the name of the creepy looking creature.
 
 ![Desktop View](/assets/images/searchlight/visitoslo.png){: width="972" height="589" }
 
