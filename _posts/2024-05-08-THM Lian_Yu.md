@@ -10,7 +10,7 @@ image:
 A beginner level security challenge
 
 ## **Skills Needed**
-
+Steganography, Web enumeration, Network Services Exploitation, SSH, FTP, Privilege escalation
 
 
 ## **Reconnaissance**
