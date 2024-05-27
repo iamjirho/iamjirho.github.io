@@ -4,7 +4,7 @@ date: 2024-05-28 00:00:00 +0800
 categories: [Blue Team Labs Online]
 tags: [walkthough,write-ups,osint]     # TAG names should always be lowercase
 image:
-    path: https://imgur.com/zWkIpZg
+    #path: https://imgur.com/zWkIpZg
 ---
 
 A user has received a phishing email and forwarded it to the SOC. Can you investigate the email and attachment to collect useful artifacts?
