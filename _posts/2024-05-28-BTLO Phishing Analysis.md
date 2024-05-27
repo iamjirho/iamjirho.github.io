@@ -27,7 +27,7 @@ Initially, I believed that the originating IP address could only be identified a
 
 ### **Perform reverse DNS on this IP address, what is the resolved host? (whois.domaintools.com)**
 ![Desktop View](/assets/images/phishing-analysis/resolved.png){: width="972" height="589" }
-We can also use [dnschecker](dnschecker.org) to locate the name of host from which the IP is assigned to.
+We can also use [dnschecker](https://dnschecker.org) to locate the name of host from which the IP is assigned to.
 
 ### **What is the name of the attached file?**
 Website contact form submission.eml
@@ -37,11 +37,11 @@ I think the lesson learned here is that the sender is trying to trick you into c
 ![Desktop View](/assets/images/phishing-analysis/url.png){: width="972" height="589" }
 
 ### **What service is this webpage hosted on?**
-Using [urlscan.io](urlscan.io), we can determine that the link redirects us to main domain and seems like the service it is offering is a blogspot.
+Using [urlscan.io](https://urlscan.io), we can determine that the link redirects us to main domain and seems like the service it is offering is a blogspot.
 ![Desktop View](/assets/images/phishing-analysis/service.png){: width="972" height="589" }
 
 ### **Using URL2PNG, what is the heading text on this page? (Doesn't matter if the page has been taken down!)**
-Go to the [url2png.com](http://url2png.com/) and paste main domain you’ve found using the [urlscan.io](http://urlscan.io) and copy the heading text once the screenshot is shown.
+Go to the [url2png.com](https://url2png.com/) and paste main domain you’ve found using the [urlscan.io](http://urlscan.io) and copy the heading text once the screenshot is shown.
 ![Desktop View](/assets/images/phishing-analysis/url2png.png){: width="972" height="589" }
 
 
