@@ -37,11 +37,11 @@ I think the lesson learned here is that the sender is trying to trick you into c
 ![Desktop View](/assets/images/phishing-analysis/url.png){: width="972" height="589" }
 
 ### **What service is this webpage hosted on?**
-Using [urlscan.io](https://urlscan.io), we can determine that the link redirects us to main domain and seems like the service it is offering is a blogspot.
+Using [urlscan](https://urlscan.io), we can determine that the link redirects us to main domain and seems like the service it is offering is a blogspot.
 ![Desktop View](/assets/images/phishing-analysis/service.png){: width="972" height="589" }
 
 ### **Using URL2PNG, what is the heading text on this page? (Doesn't matter if the page has been taken down!)**
-Go to the [url2png.com](https://url2png.com/) and paste main domain you’ve found using the [urlscan.io](http://urlscan.io) and copy the heading text once the screenshot is shown.
+Go to the [url2png](https://url2png.com/) and paste main domain you’ve found using the [urlscan](https://urlscan.io) and copy the heading text once the screenshot is shown.
 ![Desktop View](/assets/images/phishing-analysis/url2png.png){: width="972" height="589" }
 
 
