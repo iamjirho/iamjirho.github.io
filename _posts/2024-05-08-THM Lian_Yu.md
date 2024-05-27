@@ -1,7 +1,7 @@
 ---
 title: TryHackMe Lian_Yu
 date: 2024-05-08 00:00:00 +0800
-categories: [TryHackMe, Challenge]
+categories: [TryHackMe]
 tags: [walkthough,write-ups]     # TAG names should always be lowercase
 image:
     path: https://tryhackme-images.s3.amazonaws.com/room-icons/c72d580db69a726dfb8da8aa6eaa2f5a.jpeg

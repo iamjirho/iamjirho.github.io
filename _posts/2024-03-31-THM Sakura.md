@@ -1,7 +1,7 @@
 ---
 title: TryHackMe Sakura
 date: 2024-03-31 00:00:00 +0800
-categories: [TryHackMe, Challenge]
+categories: [TryHackMe]
 tags: [walkthough,write-ups,osint]     # TAG names should always be lowercase
 image:
     path: https://tryhackme-images.s3.amazonaws.com/room-icons/9a365314266266592078724ce18b248b.png

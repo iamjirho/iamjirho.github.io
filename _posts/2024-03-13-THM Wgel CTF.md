@@ -1,7 +1,7 @@
 ---
 title: TryHackMe Wgel CTF
 date: 2024-03-13 00:00:00 +0800
-categories: [TryHackMe, Challenge]
+categories: [TryHackMe]
 tags: [walkthough,write-ups]     # TAG names should always be lowercase
 image:
     path: https://tryhackme-images.s3.amazonaws.com/room-icons/8116d1d52d3a63dd1e7c2e7ddce8a0d5.png

@@ -1,7 +1,7 @@
 ---
 title: TryHackMe Bounty Hacker
 date: 2024-03-11 00:00:00 +0800
-categories: [TryHackMe, Challenge]
+categories: [TryHackMe]
 tags: [walkthough,write-ups]     # TAG names should always be lowercase
 image:
     path: https://tryhackme-images.s3.amazonaws.com/room-icons/9ad38a2cc31d6ae0030c888aca7fe646.jpeg
